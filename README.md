@@ -4,7 +4,7 @@
 
 # 1. clone the Github link using below command
 
-- git clone [link]
+- git clone https://github.com/venkatweb1234/worktasknswrevenue.git
 
 # 2. once you cloned the project use the command (npm install) to get the all packages.
 
